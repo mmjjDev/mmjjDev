@@ -1,7 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm mmjj</b><br>
   <a href="https://twitter.com/mmjjDev">Twitter</a> |
-  <b>Webite made by <b> <a href="https://github.com/TheTuso">TheTuso</a>
 </p>
 
 <p align="center"><br>

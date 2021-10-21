@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm mmjj</b><br>
-  <a href="https://twitter.com/mmjjDev">Twitter</a> |
+  <a href="https://twitter.com/mmjjDev">Twitter</a>
 </p>
 
 <p align="center"><br>
